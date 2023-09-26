@@ -1,0 +1,22 @@
+ ,sens_group,sens_chan_no,sens_chan_type,sens_section,sens_location
+oh01_a001_pir1_motion,g2,1,motion,ground,out_gallery
+oh01_a001_pir1_tampered,g2,2,tamper,ground,out_gallery
+oh01_a001_pir2_motion,g2,3,motion,ground,central_lobby
+oh01_a001_pir2_tampered,g2,4,tamper,ground,central_lobby
+#
+oh01_a002_pir1_motion,g3,1,motion,ground,stairs
+oh01_a002_pir1_tampered,g3,2,tamper,ground,stairs
+oh01_a002_pir2_motion,g3,3,motion,ground,in_gallery
+oh01_a002_pir2_tampered,g3,4,tamper,ground,in_gallery
+
+#
+oh71_a003_door_1,g3,1,door,ground,stairs_door
+oh71_a003_door_2,g3,2,door,ground,l6
+oh71_a003_door_3,g3,3,door,ground,l7
+oh71_a003_door_4,g3,4,door,ground,l8
+#
+#oh81_a006_so_button,g4,1,switch,ground,l9
+#oh81_a006_button,g4,2,switch,ground,l10
+#
+oh81_a006_switch,g4,3,light_switch,out_gallery,gallery_end
+
